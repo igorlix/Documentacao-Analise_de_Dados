@@ -17,15 +17,35 @@ Representação visual da natureza dos dados:
 ## Processo de Análise de Dados:
 Partindo dessa premissa, devemos definir a pipeline da análise, que consiste em uma série de etapas que vão desde a definição do objeto de análise, até a interpretação dos resultados.  
 
-1- Origem dos Dados: Define o endereço de origem desses dados.
+1. Definição do Problema e dos Objetivos
+* O que queremos descobrir ou resolver? 
+* Que perguntas de negócio precisam ser respondidas?
+* Qual é a hipótese inicial? (Ex: "A nova campanha de marketing aumentou as vendas").
 
-2- Definição do Objeto de Análise: Como citado acima, são as perguntas que devem ser consideradas e respondidas. 
+2. Coleta e Entendimento dos Dados
+* De onde vêm os dados? 
+* Qual é o dicionário de dados? O que cada coluna significa?
+* Aqui entra a Análise da Natureza dos Dados que detalhamos acima (Categórico, Numérico, etc.).
 
-3- Escolha do Tipo de Dado: Em relação à natureza dos dados, é a escolha de uma classe de dados para segmentar a análise.
+3. Limpeza e Pré-processamento dos Dados
+* Tratamento de valores ausentes (nulos).
+* Correção de erros de digitação e inconsistências.
+* Remoção de dados duplicados.
+* Normalização ou Padronização.
 
-4- Métricas para Mensurar os Dados: É o estabelecimento de métodos de medição de dados, determinando ferramentas de análise como quais testes correlacionais devem ser usados.
+4. Análise Exploratória de Dados (EDA - Exploratory Data Analysis)
+* Estatísticas Descritivas: Calcular médias, medianas, desvios-padrão, frequências.
+* Visualização de Dados: Gerar histogramas, boxplots, gráficos de dispersão para "sentir" os dados.
+* Diagnóstico: Testes de Normalidade como Shapiro-Wilk para decidir o caminho da análise.
 
-5- Análise dos Dados: É a aplicação prática da análise, gerando gráficos informativos.
+5. Teste de Hipóteses e Modelagem 
+* Com base nos objetivos (Etapa 1) e no diagnóstico (Etapa 4), selecionamos os testes estatísticos apropriados:
+* Preciso comparar grupos? -> Usarei t-Test, ANOVA ou Mann-Whitney.
+* Preciso ver a relação entre variáveis? -> Usarei Qui-Quadrado ou Correlação de Pearson/Spearman.
+* Aplicação prática dos testes para validar ou refutar as hipóteses.
 
-6- Interpretação dos Resultados: É a interpretação dos resultados.
+6. Interpretação e Comunicação dos Resultados
+* O que os resultados dos testes significam em termos práticos e de negócio? 
+* Tradução do "p-valor < 0.05" para "Sim, a campanha nova teve um efeito real e significativo nas vendas".
+* Criação de um relatório, dashboard ou apresentação para comunicar as descobertas de forma clara para o público-alvo
 
