@@ -40,8 +40,8 @@ Partindo dessa premissa, devemos definir a pipeline da análise, que consiste em
 
 5. Teste de Hipóteses e Modelagem 
 * Com base nos objetivos (Etapa 1) e no diagnóstico (Etapa 4), selecionamos os testes estatísticos apropriados:
-* Preciso comparar grupos? -> Usarei t-Test, ANOVA ou Mann-Whitney.
-* Preciso ver a relação entre variáveis? -> Usarei Qui-Quadrado ou Correlação de Pearson/Spearman.
+* Preciso comparar grupos? T-Test, ANOVA ou Mann-Whitney.
+* Preciso ver a relação entre variáveis? Qui-Quadrado ou Correlação de Pearson/Spearman.
 * Aplicação prática dos testes para validar ou refutar as hipóteses.
 
 6. Interpretação e Comunicação dos Resultados
