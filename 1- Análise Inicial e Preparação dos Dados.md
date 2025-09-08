@@ -21,6 +21,8 @@ Inicialmente, ao trabalhar com dados brutos, deve-se antes de tudo entender algu
 
 Representação visual da natureza dos dados:
 
+![Natureza dos Dados](/workspaces/Documenta-o--An-lise-de-Dados/Imagens/O-gênesis-das-análises-de-dados-–-Entenda-a-Natureza-dos-Seus-Dados_0.png)
+
 ## Conhecimentos e Aplicações:
 
 - **Que conhecimentos posso adquirir com esses dados?** Nesse contexto, é necessário entender o que se refere como "conhecimento". Dados brutos são apenas elementos com potencial de gerar informações, mas que ainda não foram processados, eles podem ser numéros, letras, símbolos, etc. Sua compreensão se deve ao processo de organização e interpretação, gerando sentido claro e valor funcional, esses dados agora são informações. O conhecimento portanto, é a aplicação dessas informaçãoes garatindo significado ao contexto, sendo assim, entender que conhecimentos esses dados podem prover nos permite compreender que aplicações eles podem gerar. 
