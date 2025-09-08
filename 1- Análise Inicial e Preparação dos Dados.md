@@ -21,7 +21,7 @@ Inicialmente, ao trabalhar com dados brutos, deve-se antes de tudo entender algu
 
 Representação visual da natureza dos dados:
 
-![Natureza dos Dados](/workspaces/Documenta-o--An-lise-de-Dados/Imagens/O-gênesis-das-análises-de-dados-–-Entenda-a-Natureza-dos-Seus-Dados_0.png)
+![Natureza dos Dados](https://github.com/igorlix/Documentacao-Analise_de_Dados/blob/49ef6aba5c8c889c2e50bb71a6d25a210163dd2d/Imagens/O-ge%CC%82nesis-das-ana%CC%81lises-de-dados-%E2%80%93-Entenda-a-Natureza-dos-Seus-Dados_0.png)
 
 ## Conhecimentos e Aplicações:
 
