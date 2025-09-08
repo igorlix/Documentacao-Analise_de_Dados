@@ -14,5 +14,18 @@ Representação visual da natureza dos dados:
 - **Que conhecimentos posso adquirir com esses dados?** Nesse contexto, é necessário entender o que se refere como "conhecimento". Dados brutos são apenas elementos com potencial de gerar informações, mas que ainda não foram processados, eles podem ser numéros, letras, símbolos, etc. Sua compreensão se deve ao processo de organização e interpretação, gerando sentido claro e valor funcional, esses dados agora são informações. O conhecimento portanto, é a aplicação dessas informaçãoes garatindo significado ao contexto, sendo assim, entender que conhecimentos esses dados podem prover nos permite compreender que aplicações eles podem gerar. 
 
 
-## Objetivo da Análise:
+## Processo de Análise de Dados:
+Partindo dessa premissa, devemos definir a pipeline da análise, que consiste em uma série de etapas que vão desde a definição do objeto de análise, até a interpretação dos resultados.  
+
+1- Origem dos Dados: Define o endereço de origem desses dados.
+
+2- Definição do Objeto de Análise: Como citado acima, são as perguntas que devem ser consideradas e respondidas. 
+
+3- Escolha do Tipo de Dado: Em relação à natureza dos dados, é a escolha de uma classe de dados para segmentar a análise.
+
+4- Métricas para Mensurar os Dados: É o estabelecimento de métodos de medição de dados, determinando ferramentas de análise como quais testes correlacionais devem ser usados.
+
+5- Análise dos Dados: É a aplicação prática da análise, gerando gráficos informativos.
+
+6- Interpretação dos Resultados: É a interpretação dos resultados.
 
