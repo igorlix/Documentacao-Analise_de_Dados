@@ -1,4 +1,4 @@
-# Análise Inicial e Preparação de Dados
+# Análise de Dados
 Enquanto um processo obrigatório para se trabalhar com dados, seja ao inferir, classificar ou modelar. A Análise de Dados nos permite observar, através de nuances, relações que passam despercebidas, mas muitas vezes podem ser explicadas matematicamente. Descrevendo a jornada da observação de dados brutos, até tomadas de decisões que são decorrentes dessa análise.
 
 Inicialmente, ao trabalhar com dados brutos, deve-se antes de tudo entender algumas questões que direcionarão a análise, permitindo que esses dados oferecem certos "insights" e evidências que corroboram com o propósito da análise. Nessa etapa algumas perguntas devem ser respondidas, tais como: 
@@ -6,6 +6,18 @@ Inicialmente, ao trabalhar com dados brutos, deve-se antes de tudo entender algu
 ## Natureza dos Dados: 
 
 - **Qual a natureza desses dados?** Esse é o cerne da análise, identificar a natureza nos permite não somente interpretá-los corretamente, como também nos dá indícios de outro fator extremamante importante, o contexto. 
+
+1. Dados Categóricos: Qualitativos, representam categorias.
+
+* Nominais: Categorias sem ordem (ex: Gênero, Cidade, etc.).
+
+* Ordinais: Categorias com uma ordem intrínseca (ex: Escolaridade, Nível de satisfação).
+
+2. Dados Numéricos: Quantitativos, representam uma medida.
+
+* Discretos: Contagens, números inteiros (ex: Nº de filhos, Quantidade de produtos vendidos).
+
+* Contínuos: Podem assumir qualquer valor em um intervalo (ex: Altura, Salário, Temperatura).
 
 Representação visual da natureza dos dados:
 
